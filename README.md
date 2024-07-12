@@ -17,10 +17,6 @@ This bot is a versatile, interactive personal assistant leveraging advanced AI c
 - **API Usage Tracking**: Estimate token usage and costs.
 - **Secure**: API keys are never stored on disk.
 
-## Video Preview
-
-[![Video Preview](https://github.com/paulovcmedeiros/pyRobBot/blob/main/pyrobbot/app/data/assistant_avatar.png?raw=true)](https://pyrobbot.streamlit.app)
-
 ## System Architecture
 
 `pyRobBot` is designed with a modular architecture, integrating various components to provide a seamless user experience:
