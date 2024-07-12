@@ -4,6 +4,8 @@
 
 This bot is a versatile, interactive personal assistant leveraging advanced AI capabilities to enhance your communication experience. This Python-based bot integrates seamlessly with various interfaces, offering functionalities like voice chat, web browsing, and customizable AI interactions. Whether you're looking for a robust chatbot interface or an AI-powered assistant for your projects, this bot has you covered.
 
+![Project Image Overview](https://github.com/lightningcraft-0201/Project-Images/blob/main/Streamlit-OpenAi-VoiceBot.jpeg)
+
 ## Features
 
 - **Voice Chat**: Continuous voice input and output for hands-free interaction.
